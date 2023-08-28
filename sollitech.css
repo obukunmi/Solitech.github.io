@@ -51,7 +51,7 @@ color: yellowgreen;
     background-attachment: scroll;
     background-size: cover;
    
-    /* padding: 200px 200px; */
+    /* padding: 200px 0px; */
     align-items: center;
     }
 
@@ -79,6 +79,7 @@ color: yellowgreen;
         font-size: 50px;
         font-family: verdana;
         text-align: center;
+        padding:50px 0;
     }
 }
 
@@ -404,7 +405,7 @@ padding-left: 150px;
 #footer .footer1 img{
 height: 150px;
 width: 150px;
-padding-left: 200px;
+padding-left: 100px;
 
 }
 }
